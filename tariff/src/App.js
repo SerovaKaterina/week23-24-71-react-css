@@ -12,6 +12,9 @@ function App() {
           rate={tariff.rate}
           speed={tariff.speed}
           content={tariff.content}
+          other={tariff.other}
+          color={tariff.color}
+          nextcolor={tariff.nextcolor}
         />
       ))}
     </div>

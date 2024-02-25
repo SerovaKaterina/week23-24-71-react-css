@@ -1,1 +1,30 @@
-
+.tariff {
+  text-align: center;
+  background-color: rgb(247, 247, 242);
+  margin-top: 70px;
+  border: 2px solid rgb(255, 255, 255);
+}
+.tariff_name {
+  color: #f1f1f1;
+  border: 1px solid rgb(255, 255, 255);
+}
+.tariff_rate {
+  color: #f1f1f1;
+  padding: 40px;
+  font-weight: bolder;
+  font-size: x-large;
+}
+.tariff_speed {
+  padding: 40px;
+}
+.tariff_content {
+  padding: 40px;
+  background-color: rgb(192, 192, 192);
+}
+.otherCard {
+  background-color: rgb(247, 247, 242);
+  text-align: center;
+  transform: scale(1.1);
+  border: 2px solid rgb(255, 255, 255);
+  margin-top: 70px;
+}
