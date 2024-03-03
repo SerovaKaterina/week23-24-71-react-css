@@ -1,4 +1,5 @@
 .tariff {
+  width: 310px;
   text-align: center;
   background-color: rgb(247, 247, 242);
   margin-top: 70px;
@@ -21,10 +22,7 @@
   padding: 40px;
   background-color: rgb(192, 192, 192);
 }
-.otherCard {
-  background-color: rgb(247, 247, 242);
-  text-align: center;
+
+.tariff.selected {
   transform: scale(1.1);
-  border: 2px solid rgb(255, 255, 255);
-  margin-top: 70px;
 }
